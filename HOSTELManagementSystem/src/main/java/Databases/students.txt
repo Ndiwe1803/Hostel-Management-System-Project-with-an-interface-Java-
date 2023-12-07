@@ -1,0 +1,10 @@
+A123456,University of ABC,1990-05-10,Bachelor's,USA,pass123
+B987654,University of XYZ,1988-11-25,Master's,UK,secret456
+C456789,University of PQR,1995-03-15,Bachelor's,Canada,confidential789
+D654321,University of LMN,1992-08-07,PhD,Australia,hidden123
+E987654,University of DEF,1987-02-28,Master's,Germany,secure987
+F321654,University of GHI,1993-12-20,Bachelor's,France,password123
+G789012,University of JKL,1998-09-05,Bachelor's,Spain,secretword789
+H456789,University of MNO,1991-04-18,Master's,Italy,classified321
+I345678,University of RST,1997-07-01,Bachelor's,China,protected456
+J890123,University of UVW,1994-10-12,Bachelor's,Japan,confidential123

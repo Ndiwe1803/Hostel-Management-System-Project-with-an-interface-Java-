@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+      <Dimension value="[350, 400]"/>
+    </Property>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jPanel9" max="32767" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jPanel9" max="32767" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel9">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="99" red="33" type="rgb"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <Component id="jButton20" min="-2" pref="66" max="-2" attributes="0"/>
+                  <EmptySpace min="0" pref="272" max="32767" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jScrollPane2" max="32767" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="125" max="-2" attributes="0"/>
+                  <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <Component id="jButton20" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Component id="jScrollPane2" min="-2" pref="306" max="-2" attributes="0"/>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace pref="15" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JButton" name="jButton20">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="back"/>
+          </Properties>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextArea" name="jTextArea1">
+              <Properties>
+                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                </Property>
+                <Property name="columns" type="int" value="20"/>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="ff" green="99" red="33" type="rgb"/>
+                </Property>
+                <Property name="rows" type="int" value="5"/>
+                <Property name="text" type="java.lang.String" value="Hotel Room Booking Contract&#xa;&#xa;This contract (the &quot;Contract&quot;) is entered into between the hotel, referred to as the &quot;Hotel,&quot; and the guest, referred to as the &quot;Guest,&quot; for the purpose of booking a hotel room. The terms and conditions outlined in this Contract apply to the booking and stay in the designated hotel room.&#xa;&#xa;1. Room Details:&#xa;   - Room Capacity:&#xa;   - Room Number: &#xa;   - Check-in Date: &#xa;   - Check-out Date:&#xa;   - Duration of Stay: &#xa;&#xa;2. Facilities and Amenities:&#xa;Wi-Fi: High-speed internet connectivity.&#xa;Air Conditioning: Climate control to maintain a comfortable temperature.&#xa;Television: Cable or satellite TV with a variety of channels.&#xa;Mini Refrigerator: Small refrigerator for storing food and beverages.&#xa;Coffee/Tea Maker: Facilities for making coffee or tea in the room.&#xa;Safe: Secure storage for valuable items.&#xa;Iron and Ironing Board: For guests to press their clothes.&#xa;Hairdryer: Provided for guests&apos; convenience.&#xa;Work Desk: A dedicated space with a desk and chair for working.&#xa;Telephone: Direct dial telephone for local and international calls.&#xa;Wardrobe/Closet: Storage space for clothes and personal belongings.&#xa;Complimentary Toiletries: Basic toiletries such as shampoo, soap, and towels.&#xa;Room Service: The option to order food and beverages to be delivered to the room.&#xa;Daily Housekeeping: Regular cleaning and tidying of the room.&#xa;24-Hour Front Desk: Round-the-clock assistance and concierge services.&#xa;Fitness Center: On-site gym or fitness facilities for guests to use.&#xa;Swimming Pool: An indoor or outdoor pool for recreational purposes.&#xa;Restaurant: On-site dining options for breakfast, lunch, and dinner.&#xa;Business Center: Facilities for printing, photocopying, and other business needs.&#xa;Laundry Service: On-site laundry facilities or a laundry service for guests.&#xa;&#xa;3. Rules and Regulations:&#xa;   The Guest agrees to abide by the following rules and regulations during their stay:&#xa;&#xa;   a. Check-in and Check-out:&#xa;      - The standard check-in time is [Specify the check-in time], and the check-out time is [Specify the check-out time].&#xa;      - Early check-in or late check-out may be subject to additional charges and availability.&#xa;&#xa;   b. Occupancy:&#xa;      - The hotel room is strictly for the use and occupancy of the Guest(s) mentioned in the booking.&#xa;      - The number of occupants should not exceed the maximum capacity of the room as specified by the Hotel.&#xa;&#xa;   c. Security and Valuables:&#xa;      - The Hotel shall not be held responsible for any loss or damage to the Guest&apos;s personal belongings or valuables during their stay.&#xa;      - The Guest is advised to use the provided safety deposit box or locker for securing their valuable items.&#xa;&#xa;   d. Noise and Conduct:&#xa;      - The Guest agrees to maintain proper decorum and not create any disturbance or inconvenience to other guests.&#xa;      - Excessive noise or disruptive behavior may result in eviction from the premises without any refund.&#xa;&#xa;   e. Smoking and Substance Use:&#xa;      - Smoking is strictly prohibited in all areas of the hotel, including the hotel room. Designated smoking areas are available.&#xa;      - The use of illegal substances within the hotel premises is strictly prohibited.&#xa;&#xa;   f. Damages and Liabilities:&#xa;      - The Guest shall be liable for any damages caused to the hotel room or its facilities during their stay.&#xa;      - The Guest will be responsible for reimbursing the Hotel for any repair or replacement costs incurred due to their actions.&#xa;&#xa;4. Payment and Cancellation:&#xa;   - The Guest agrees to pay the specified room rate for the duration of their stay, as mentioned in the booking.&#xa;   - Any additional charges for extra services or facilities availed by the Guest shall be settled upon check-out.&#xa;   - Cancellation or modification of the booking may be subject to the Hotel&apos;s cancellation policy and applicable charges.&#xa;&#xa;5. Indemnity:&#xa;   The Guest agrees to indemnify and hold the Hotel harmless from any claims, losses, damages, or liabilities arising from their stay, including but not limited to personal injury, property damage, or violation of any laws or regulations.&#xa;&#xa;By Clicking the button below, the Guest acknowledges that they have read, understood, and agree to the terms and conditions outlined in this Contract. The Hotel and the Guest hereby enter into this agreement as of the date first written below.&#xa;"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JButton" name="jButton1">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="99" red="33" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Accept"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
